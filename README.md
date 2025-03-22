@@ -15,7 +15,7 @@ This repository contains a simple implementation of a queue data structure using
   - [traverse()](#traverse)
 - [Usage](#usage)
 
-## Classes
+## Classes 
 
 ### Node Class
 The `Node` class represents a single node in the linked list. Each node contains:
